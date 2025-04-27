@@ -3,8 +3,11 @@ A modern responsive travel blog built with React + Vite.
 Users can browse suggested travel locations, explore featured travel stories, and view detailed blog posts inside beautiful animated modals.
 Fully static — no backend needed!
 
+## 📸 Screenshot
+![Wanderlust Chronicles](./src/assets/WC-Screenshot%20.png)
+
 ## 🚀 Live Demo
-🌐 View Live
+🌐 View live on Github pages: [Wanderlust Chronicles](https://klb-dev.github.io/travel-log-blog/)
 
 ## ✨ Features
 - ✈️ Suggested Travel Locations displayed in a responsive grid
