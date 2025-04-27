@@ -7,7 +7,7 @@ Fully static — no backend needed!
 ![Wanderlust Chronicles](./src/assets/WC-Screenshot%20.png)
 
 ## 🚀 Live Demo
-🌐 View live on Github pages: [Wanderlust Chronicles](https://klb-dev.github.io/travel-log-blog/)
+🌐 View live: [Wanderlust Chronicles](https://travel-log-b.netlify.app/)
 
 ## ✨ Features
 - ✈️ Suggested Travel Locations displayed in a responsive grid
